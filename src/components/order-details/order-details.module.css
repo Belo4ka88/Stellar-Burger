@@ -1,0 +1,23 @@
+.order__details {
+  width: 520px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.order__image {
+  width: 120px;
+  height: 120px;
+  object-fit: none;
+  object-position: center center;
+  border: none;
+}
+
+.order__message {
+  text-align: center;
+}
+
+.order__push {
+  text-align: center;
+  color: #8585ad;
+}

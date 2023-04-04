@@ -1,0 +1,33 @@
+.ingredients {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.ingredients__title {
+  line-height: 40px;
+}
+
+.ingredients__name {
+  text-align: center;
+}
+
+.ingredients__list {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  gap: 20px;
+}
+
+.details__items {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.details__item {
+  color: #8585ad;
+  text-align: center;
+}
